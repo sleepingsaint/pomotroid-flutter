@@ -10,6 +10,6 @@ Original Pomotroid can be downloaded [here](https://splode.github.io/pomotroid/)
 
 ### TODO:
 
-[] remove title bar for the desktop application
-[] create multiple themes for flutter
-[] create a timer session provider
+[ ] remove title bar for the desktop application
+[ ] create multiple themes for flutter
+[ ] create a timer session provider
